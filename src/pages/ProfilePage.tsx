@@ -10,7 +10,7 @@ const userProfile = {
   avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
   bio: "Senior Software Engineer | Photography enthusiast | Coffee addict ☕️",
   location: "San Francisco, CA",
-  website: "alexrivera.dev",
+  website: "example.com",
   joinDate: "Joined March 2024",
   following: 234,
   followers: 1234,
